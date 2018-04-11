@@ -1,5 +1,5 @@
 # Gun_Deaths_In_US
-Compiled by: FiveThirtyEight (CDC 2012-2014)
+Original Data Compiled by: FiveThirtyEight (CDC 2012-2014)
 
 File name: full_data.csv
 
