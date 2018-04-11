@@ -1,2 +1,6 @@
 # Gun_Deaths_In_US
-Analysis of the deaths in US caused by gun shots in 2012-2014 : By gender and race, and homicide counts
+Compiled by: FiveThirtyEight (CDC 2012-2014)
+
+File name: full_data.csv
+
+Analysis: Deaths in US caused by gun shots in 2012-2014 : By gender and race, and homicide counts
